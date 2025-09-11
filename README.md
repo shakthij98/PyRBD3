@@ -13,8 +13,8 @@ If you use this tool, please cite us as follows. S. Janardhanan, Y. Chen, W. Kel
 ## Python Environment
 
 ```bash
-conda create -n pyrbd_plusplus python=3.10
-conda activate pyrbd_plusplus
+conda create -n pyrbd3 python=3.10
+conda activate pyrbd3
 pip install --upgrade pip
 pip install -r requirements.txt
 conda install -c conda-forge gcc_linux-64=11 gxx_linux-64=11
